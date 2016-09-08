@@ -25,3 +25,11 @@ textarea{
 	width: 360px;
 	height: 50px;
 }
+
+input:hover{
+    font-size: 40px;
+}
+
+label:hover{
+    font-size: 40px;
+}
